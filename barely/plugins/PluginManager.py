@@ -4,7 +4,7 @@ finds and registers all available
 Plugins. This includes barelys core plugins,
 as well as any the user might have put in their
 dotfolder.
-Plugins are being differntiated by their category
+Plugins are differentiated by their category
 (content, backup or publication) and by the
 filetype(s) they register for.
 """
